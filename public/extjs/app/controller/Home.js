@@ -1,4 +1,4 @@
-Ext.define('SampleApp.controller.Home', {
+Ext.define('ERP.controller.Home', {
   extend: 'Ext.app.Controller',
   views: ['home.Home'],
   init: function() {

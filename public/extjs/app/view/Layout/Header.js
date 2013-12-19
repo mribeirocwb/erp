@@ -1,4 +1,4 @@
-Ext.define('SampleApp.view.layout.Header', {
+Ext.define('ERP.view.layout.Header', {
   extend        : 'Ext.panel.Panel',
   alias         : 'widget.layoutheader',
   title         : 'North',

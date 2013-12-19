@@ -14,11 +14,11 @@ Ext.Loader.setConfig({
 
         
 Ext.application({
-  name               : 'Sistema ERP',
+  name               : 'ERP',
   autoCreateViewport : true,
-  paths              : {'Ext.ux': 'app/ux'},
+  paths              : {'Ext.ux': '/extjs/app/ux'},
   requires           : ['Ext.ux.Initialization'],
-  appFolder          : 'app',
+  appFolder          : '/extjs/app',
   controllers        : ['Viewport'],
   enableRouter       : true,
   routes: {

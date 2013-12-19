@@ -1,4 +1,4 @@
-Ext.define('SampleApp.view.layout.Middle', {
+Ext.define('ERP.view.layout.Middle', {
   extend        : 'Ext.panel.Panel',
   alias         : 'widget.layoutmiddle',
   id:'layoutmiddle',

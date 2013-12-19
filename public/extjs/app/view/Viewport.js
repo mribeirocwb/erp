@@ -1,4 +1,4 @@
-Ext.define('SampleApp.view.Viewport', {
+Ext.define('ERP.view.Viewport', {
     extend: 'Ext.container.Viewport',
 
 //config options

@@ -23,6 +23,7 @@ Ext.define('SampleApp.view.authentication.Login', {
   draggable   : false,
   constrain   : true,
   resizable   : false,
+  width       : 320,
 
   initComponent: function() {
     this.items = [

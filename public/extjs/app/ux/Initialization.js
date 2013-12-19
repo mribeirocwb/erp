@@ -26,7 +26,7 @@ Ext.define('Ext.ux.Initialization', {requires: ['Ext.ux.Router']},
       		view="home.Home";
         }
         Ext.Ajax.request({
-          url : 'data/islogged.json',   //Simula ERRO
+          url : '/extjs/data/islogged.json',   //Simula ERRO
           method: 'POST',
           scope:this,
           success: function ( result, request ) { 

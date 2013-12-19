@@ -1,4 +1,4 @@
-Ext.define('SampleApp.view.layout.Footer', {
+Ext.define('ERP.view.layout.Footer', {
   extend        : 'Ext.panel.Panel',
   alias         : 'widget.layoutfooter',
   title         : 'South',

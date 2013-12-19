@@ -1,4 +1,4 @@
-Ext.define('SampleApp.controller.Authentication', {
+Ext.define('ERP.controller.Authentication', {
   extend: 'Ext.app.Controller',
   views: ['authentication.Login', 'authentication.CapsWarningTooltip'],
   init: function() {

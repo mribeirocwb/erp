@@ -1,4 +1,4 @@
-Ext.define('SampleApp.controller.Viewport', {
+Ext.define('ERP.controller.Viewport', {
   extend: 'Ext.app.Controller',
   views: ['layout.Header','layout.Footer','layout.Left','layout.Right','layout.Middle', 'layout.Appview','home.Home'],
   defaultItem:{

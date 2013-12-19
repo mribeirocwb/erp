@@ -1,4 +1,4 @@
-Ext.define('SampleApp.view.home.Home', {
+Ext.define('ERP.view.home.Home', {
   extend        : 'Ext.panel.Panel',
   alias         : 'widget.homehome',
   deferredRender: false,
